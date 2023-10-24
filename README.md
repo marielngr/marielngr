@@ -9,9 +9,9 @@
 >My latest project is to become a glorious web dev @ neuefische. 
 
 >**Next things on my to do list:**
-1. Git and GitHub
-2. HTML
-3. CSS
-4. JavaScript
+1. HTML
+2. CSS
+3. JavaScript
+4. much more 😇
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marielngr)](https://git.io/streak-stats)
