@@ -15,3 +15,7 @@
 4. much more 😇
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marielngr)](https://git.io/streak-stats)
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
